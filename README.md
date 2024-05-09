@@ -7,14 +7,22 @@ Aplikasi ini adalah sebuah program sederhana untuk manajemen akun bank. Dengan a
 
 ## Pengantar
 
-Aplikasi ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) Pemrograman Berorientasi Objek (PBO) dengan menggunakan bahasa pemrograman Java dan IDE NetBeans.
+Aplikasi ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) Pemrograman Berorientasi Objek (PBO) dengan menggunakan bahasa pemrograman Java dengan IDE NetBeans.
 
-## Fitur-fitur
+## Fitur-Fitur Utama
 
-1. **Registrasi Akun Baru:** Pengguna dapat membuat akun baru dengan memasukkan nama, alamat, nomor telepon, dan saldo awal.
-2. **Mengirim Uang:** Pengguna dapat mentransfer uang dari satu akun ke akun lain dengan memasukkan nomor akun pengirim, nomor akun penerima, dan jumlah uang.
-3. **Menyimpan Uang:** Pengguna dapat menyimpan uang ke dalam akun dengan memasukkan nomor akun dan jumlah uang yang akan disimpan.
-4. **Mengecek Informasi Rekening Pribadi:** Pengguna dapat melihat informasi lengkap tentang akun mereka dengan memasukkan nomor akun.
+1. Registrasi Akun Baru
+- Pengguna diminta untuk memasukkan nama, alamat, nomor telepon, dan saldo awal untuk membuat akun baru.
+- Setiap akun baru akan memiliki nomor akun unik yang secara otomatis dibuat oleh program.
+2. Mengirim Uang
+- Pengguna diminta untuk memasukkan nomor akun pengirim, nomor akun penerima, dan jumlah uang yang akan ditransfer.
+- Jika transfer berhasil, informasi transaksi akan ditampilkan, termasuk nomor akun pengirim dan penerima, serta waktu transaksi.
+3. Menyimpan Uang
+- Pengguna diminta untuk memasukkan nomor akun dan jumlah uang yang akan disimpan.
+- Setelah deposit berhasil, saldo akan terupdate dan informasi transaksi akan ditampilkan.
+4. Mengecek Informasi Rekening Pribadi
+- Pengguna diminta untuk memasukkan nomor akun untuk mengecek informasi rekening pribadi.
+- Informasi yang ditampilkan mencakup nama, alamat, nomor telepon, saldo, nomor akun, dan tanggal registrasi.
 
 ## Cara Menggunakan
 
