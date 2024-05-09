@@ -26,9 +26,7 @@ Aplikasi ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) Pemrograman 
 
 ## Tampilan Program
 
-Berikut adalah tampilan program saat dijalankan:
-
-1. Fitur Registrasi Akun Baru
+Tampilan Program sudah dilampirkan pada file repositori
    
 
 ## Kontribusi
