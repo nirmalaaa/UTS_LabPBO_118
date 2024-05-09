@@ -37,9 +37,4 @@ Aplikasi ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) Pemrograman 
 Tampilan Program sudah dilampirkan pada file repositori
    
 
-## Kontribusi
-
-Anda dapat berkontribusi pada pengembangan aplikasi ini dengan membuat *pull request* ke repositori ini.
-
-
-Terima kasih!
+## Terima kasih!
